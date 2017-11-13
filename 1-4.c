@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/* Write a program to print the corresponding Celsius to Fahrenheit
+  table.*/
+
 main(){
     float cels, fahr;
     int lower, upper, step;
